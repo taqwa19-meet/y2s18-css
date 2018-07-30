@@ -9,4 +9,42 @@ a
 {color:white;
 
 }
+.v
+{
+	color:pink;
+}
+.nv
+{
+	color:white;
+}
 
+.title
+{
+	height:60px
+	width:100%;
+}
+.container
+{
+	position:relative;
+}
+
+.sidebar
+{
+	background-color:pink;
+	position: absolute;
+	top:0px;
+	height:100%;
+}
+
+.container
+{
+	height:1000px;
+	position: relative;
+}
+
+.content
+{
+	position:absolute;
+	top:0px;
+	left:300px;
+}
